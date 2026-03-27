@@ -5,7 +5,6 @@
  * @package Serbian Addons for WooCommerce
  * @subpackage Templates
  * @version 2.8.0
- *
  * @var string $alt QR Code image alt.
  * @var string $src QR Code image.
  */
